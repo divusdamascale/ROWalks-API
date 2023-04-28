@@ -1,0 +1,93 @@
+[
+
+    {
+        "Name": "Transfăgărășan",
+        "Description": "Traseu montan care urmărește șoseaua Transfăgărășan și trece peste celebra Pasul Balea, oferind priveliști spectaculoase ale Munților Făgăraș",
+        "LengthInKm": 36,
+        "WalkImageURL": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/01/8d/00.jpg",
+        "DifficultyId": "a4e4d770-1bb7-4e40-3902-08db424ba07d",
+        "CountyId": "9723a44f-3658-4b65-cc95-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Masivul Piatra Craiului",
+        "Description": "Traseu montan prin Masivul Piatra Craiului, care oferă priveliști impresionante asupra Munților Bucegi și ai Văii Rucăr-Bran",
+        "LengthInKm": 20,
+        "WalkImageURL": "https://letswandertogether.com/wp-content/uploads/2018/07/DSC_9236.jpg",
+        "DifficultyId": "a4e4d770-1bb7-4e40-3902-08db424ba07d",
+        "CountyId": "4e8a4008-2fe3-4b5e-cc9a-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Munții Ceahlău",
+        "Description": "Traseu montan care urcă spre vârful Toaca din Munții Ceahlău, unul dintre cele mai cunoscute vârfuri din România, oferind priveliști panoramice asupra munților și văilor din jur",
+        "LengthInKm": 10,
+        "WalkImageURL": "https://www.ceahlaupark.ro/wp-content/uploads/2015/12/PNC-Traseu-3-Poiana-Maicilor02.jpg",
+        "DifficultyId": "a4e4d770-1bb7-4e40-3902-08db424ba07d",
+        "CountyId": "02033bf1-1e2f-4e44-ccaf-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Cheile Turzii",
+        "Description": "Traseu montan prin Cheile Turzii, o zonă pitorească cu stânci și peșteri, care oferă o priveliște spectaculoasă asupra văii Turzii",
+        "LengthInKm": 6,
+        "WalkImageURL": "https://2.bp.blogspot.com/-_ZZy_g36JaQ/WbBdsE3ArtI/AAAAAAAAHH8/z0ZMR_cW7eU5UQotYJGyQCGi5G21wmnxwCLcBGAs/s1600/cheile-turzii%2B%252871%2529.jpeg",
+        "DifficultyId": "3e362034-f25a-47f1-3901-08db424ba07d",
+        "CountyId": "23a5b4bb-0524-44fb-cc9f-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Vârful Moldoveanu",
+        "Description": "Traseu montan spre cel mai înalt vârf din România, cu o priveliște spectaculoasă asupra Munților Făgăraș și a văilor din jur",
+        "LengthInKm": 12,
+        "WalkImageURL": "https://muntiiromaniei.ro/wp-content/uploads/2018/12/Muntii-Fagaras-in-Zbor-peste-Muntii-Romaniei-Imagini-aeriene-8.jpg",
+        "DifficultyId": "632140df-7e43-4243-3903-08db424ba07d",
+        "CountyId": "ce6504f7-ce37-459e-ccb4-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Cascada Bigăr și Cheile Nerei",
+        "Description": "Traseu montan prin Cheile Nerei, cu priveliști impresionante asupra cascadei Bigăr și a altor atracții naturale din zonă",
+        "LengthInKm": 16,
+        "WalkImageURL": "https://haisasocializam.ro/wp-content/uploads/2018/06/cheile-nerei-cascada-bigar-excursie-prieteni-socializare-1200x675.jpg",
+        "DifficultyId": "a4e4d770-1bb7-4e40-3902-08db424ba07d",
+        "CountyId": "0bb91389-c97e-4da9-cc9d-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Retezatul Mic",
+        "Description": "Traseu montan prin Munții Retezat, care oferă priveliști panoramice asupra lacurilor glaciare și a vârfurilor din jur",
+        "LengthInKm": 16,
+        "WalkImageURL": "https://laurentiuartugyan.files.wordpress.com/2020/10/peisaj-retezatul-mic.jpg",
+        "DifficultyId": "a4e4d770-1bb7-4e40-3902-08db424ba07d",
+        "CountyId": "4a7b003b-f796-4ce9-cca8-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Vârful Cozia",
+        "Description": "Traseu montan prin Munții Cozia, care urcă spre vârful Cozia, oferind priveliști panoramice asupra Munților Făgăraș și a văilor din jur",
+        "LengthInKm": 9,
+        "WalkImageURL": "https://bloguldecalatorii.ro//wp-content/uploads/2013/04/Manastirea-Turnu-Manastirea-Stanisoara-Cabana-Cozia_153.jpg",
+        "DifficultyId": "a4e4d770-1bb7-4e40-3902-08db424ba07d",
+        "CountyId": "06641613-3391-404c-ccba-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Cheile Bicazului",
+        "Description": "Traseu montan prin Cheile Bicazului, o zonă pitorească cu stânci și peșteri, care oferă o priveliște spectaculoasă asupra văii Bicazului",
+        "LengthInKm": 5,
+        "WalkImageURL": "https://www.zigzagpeharta.ro/wp-content/uploads/2022/04/278114234_1694173154314897_3742705823134375106_n-2-1900x1069.jpg",
+        "DifficultyId": "3e362034-f25a-47f1-3901-08db424ba07d",
+        "CountyId": "02033bf1-1e2f-4e44-ccaf-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Cetatea Poenari",
+        "Description": "Traseu spre fortăreața cunoscută drept 'Cetatea lui Vlad Țepeș', care oferă o priveliște impresionantă asupra râului Argeș și a Munților Făgăraș",
+        "LengthInKm": 1,
+        "WalkImageURL": "https://unica.ro/wp-content/uploads/2019/08/Cetatea-Poenari.-Unde-se-afl%C4%83-%C8%99i-cum-ajungem.jpg",
+        "DifficultyId": "3e362034-f25a-47f1-3901-08db424ba07d",
+        "CountyId": "9723a44f-3658-4b65-cc95-08db43dff8e8"
+    },
+    {
+        "Name": "Traseul Mănăstirea Voroneț",
+        "Description": "Traseu spre o biserică medievală cu picturi exterioare unice în lume, cunoscută drept 'Capela Sixtină a Estului'",
+        "LengthInKm": 1,
+        "WalkImageURL": "https://www.turulmanastirilordinbucovina.ro/wp-content/gallery/traseul-2/1-Manastirea-Voronet.jpg",
+        "DifficultyId": "3e362034-f25a-47f1-3901-08db424ba07d",
+        "CountyId": "1882738f-cf29-4e51-ccb5-08db43dff8e8"
+    }
+   
+]
+   

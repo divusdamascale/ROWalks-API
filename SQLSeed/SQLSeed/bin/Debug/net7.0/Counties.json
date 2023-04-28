@@ -1,0 +1,213 @@
+[
+
+    {
+        "Code": 1,
+        "Name": "Alba",
+        "CountyImageURL": "https://exemplu.com/alba.jpg"
+    },
+    {
+        "Code": 2,
+        "Name": "Arad",
+        "CountyImageURL": "https://exemplu.com/arad.jpg"
+    },
+    {
+        "Code": 3,
+        "Name": "Argeș",
+        "CountyImageURL": "https://exemplu.com/arges.jpg"
+    },
+    {
+        "Code": 4,
+        "Name": "Bacău",
+        "CountyImageURL": "https://exemplu.com/bacau.jpg"
+    },
+    {
+        "Code": 5,
+        "Name": "Bihor",
+        "CountyImageURL": "https://exemplu.com/bihor.jpg"
+    },
+    {
+        "Code": 6,
+        "Name": "Bistrița-Năsăud",
+        "CountyImageURL": "https://exemplu.com/bistrita-nasaud.jpg"
+    },
+    {
+        "Code": 7,
+        "Name": "Botoșani",
+        "CountyImageURL": "https://exemplu.com/botosani.jpg"
+    },
+    {
+        "Code": 8,
+        "Name": "Brașov",
+        "CountyImageURL": "https://exemplu.com/brasov.jpg"
+    },
+    {
+        "Code": 9,
+        "Name": "Brăila",
+        "CountyImageURL": "https://exemplu.com/braila.jpg"
+    },
+    {
+        "Code": 10,
+        "Name": "Buzău",
+        "CountyImageURL": "https://exemplu.com/buzau.jpg"
+    },
+    {
+        "Code": 11,
+        "Name": "Caraș-Severin",
+        "CountyImageURL": "https://exemplu.com/caras-severin.jpg"
+    },
+    {
+        "Code": 12,
+        "Name": "Călărași",
+        "CountyImageURL": "https://exemplu.com/calarași.jpg"
+    },
+    {
+        "Code": 13,
+        "Name": "Cluj",
+        "CountyImageURL": "https://exemplu.com/cluj.jpg"
+    },
+    {
+        "Code": 14,
+        "Name": "Constanța",
+        "CountyImageURL": "https://exemplu.com/constanta.jpg"
+    },
+    {
+        "Code": 15,
+        "Name": "Covasna",
+        "CountyImageURL": "https://exemplu.com/covasna.jpg"
+    },
+    {
+        "Code": 16,
+        "Name": "Dâmbovița",
+        "CountyImageURL": "https://exemplu.com/dambovita.jpg"
+    },
+    {
+        "Code": 17,
+        "Name": "Dolj",
+        "CountyImageURL": "https://exemplu.com/dolj.jpg"
+    },
+    {
+        "Code": 18,
+        "Name": "Galați",
+        "CountyImageURL": "https://example.com/galati.jpg"
+    },
+    {
+        "Code": 19,
+        "Name": "Giurgiu",
+        "CountyImageURL": "https://example.com/giurgiu.jpg"
+    },
+    {
+        "Code": 20,
+        "Name": "Gorj",
+        "CountyImageURL": "https://example.com/gorj.jpg"
+    },
+    {
+        "Code": 21,
+        "Name": "Harghita",
+        "CountyImageURL": "https://example.com/harghita.jpg"
+    },
+    {
+        "Code": 22,
+        "Name": "Hunedoara",
+        "CountyImageURL": "https://example.com/hunedoara.jpg"
+    },
+    {
+        "Code": 23,
+        "Name": "Ialomița",
+        "CountyImageURL": "https://example.com/ialomita.jpg"
+    },
+    {
+        "Code": 24,
+        "Name": "Iași",
+        "CountyImageURL": "https://example.com/iasi.jpg"
+    },
+    {
+        "Code": 25,
+        "Name": "Ilfov",
+        "CountyImageURL": "https://example.com/ilfov.jpg"
+    },
+    {
+        "Code": 26,
+        "Name": "Maramureș",
+        "CountyImageURL": "https://example.com/maramures.jpg"
+    },
+    {
+        "Code": 27,
+        "Name": "Mehedinți",
+        "CountyImageURL": "https://example.com/mehedinti.jpg"
+    },
+    {
+        "Code": 28,
+        "Name": "Mureș",
+        "CountyImageURL": "https://example.com/mures.jpg"
+    },
+    {
+        "Code": 29,
+        "Name": "Neamț",
+        "CountyImageURL": "https://example.com/neamt.jpg"
+    },
+    {
+        "Code": 30,
+        "Name": "Olt",
+        "CountyImageURL": "https://example.com/olt.jpg"
+    },
+    {
+        "Code": 31,
+        "Name": "Prahova",
+        "CountyImageURL": "https://example.com/prahova.jpg"
+    },
+    {
+        "Code": 32,
+        "Name": "Satu Mare",
+        "CountyImageURL": "https://example.com/satumare.jpg"
+    },
+    {
+        "Code": 33,
+        "Name": "Sălaj",
+        "CountyImageURL": "https://example.com/salaj.jpg"
+    },
+    {
+        "Code": 34,
+        "Name": "Sibiu",
+        "CountyImageURL": "https://example.com/sibiu.jpg"
+    },
+    {
+        "Code": 35,
+        "Name": "Suceava",
+        "CountyImageURL": "https://example.com/suceava.jpg"
+    },
+    {
+        "Code": 36,
+        "Name": "Teleorman",
+        "CountyImageURL": "https://example.com/teleorman.jpg"
+    },
+    {
+        "Code": 37,
+        "Name": "Timiș",
+        "CountyImageURL": "https://example.com/timis.jpg"
+    },
+    {
+        "Code": 38,
+        "Name": "Tulcea",
+        "CountyImageURL": "https://example.com/tulcea.jpg"
+      },
+      {
+        "Code": 39,
+        "Name": "Vaslui",
+        "CountyImageURL": "https://example.com/vaslui.jpg"
+      },
+      {
+        "Code": 40,
+        "Name": "Vâlcea",
+        "CountyImageURL": "https://example.com/valcea.jpg"
+      },
+      {
+        "Code": 41,
+        "Name": "Vrancea",
+        "CountyImageURL": "https://example.com/vrancea.jpg"
+      },
+      {
+        "Code": 42,
+        "Name": "București",
+        "CountyImageURL": "https://example.com/bucuresti.jpg"
+      }
+    ]
